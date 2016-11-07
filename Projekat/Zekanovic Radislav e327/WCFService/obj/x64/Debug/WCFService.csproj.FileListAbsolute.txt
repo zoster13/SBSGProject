@@ -1,0 +1,8 @@
+C:\Users\radis\Desktop\Projekat\Zekanovic Radislav e327\WCFService\bin\x64\Debug\WCFService.exe.config
+C:\Users\radis\Desktop\Projekat\Zekanovic Radislav e327\WCFService\bin\x64\Debug\WCFService.exe
+C:\Users\radis\Desktop\Projekat\Zekanovic Radislav e327\WCFService\bin\x64\Debug\WCFService.pdb
+C:\Users\radis\Desktop\Projekat\Zekanovic Radislav e327\WCFService\bin\x64\Debug\Contracts.dll
+C:\Users\radis\Desktop\Projekat\Zekanovic Radislav e327\WCFService\bin\x64\Debug\Contracts.pdb
+C:\Users\radis\Desktop\Projekat\Zekanovic Radislav e327\WCFService\obj\x64\Debug\WCFService.csprojResolveAssemblyReference.cache
+C:\Users\radis\Desktop\Projekat\Zekanovic Radislav e327\WCFService\obj\x64\Debug\WCFService.exe
+C:\Users\radis\Desktop\Projekat\Zekanovic Radislav e327\WCFService\obj\x64\Debug\WCFService.pdb

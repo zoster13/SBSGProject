@@ -1,0 +1,8 @@
+C:\Users\ftn\Desktop\SBSG e3 27\Projekat\Zekanovic Radislav e327\WCFService\bin\Debug\WCFService.exe.config
+C:\Users\ftn\Desktop\SBSG e3 27\Projekat\Zekanovic Radislav e327\WCFService\bin\Debug\WCFService.exe
+C:\Users\ftn\Desktop\SBSG e3 27\Projekat\Zekanovic Radislav e327\WCFService\bin\Debug\WCFService.pdb
+C:\Users\ftn\Desktop\SBSG e3 27\Projekat\Zekanovic Radislav e327\WCFService\bin\Debug\Contracts.dll
+C:\Users\ftn\Desktop\SBSG e3 27\Projekat\Zekanovic Radislav e327\WCFService\bin\Debug\Contracts.pdb
+C:\Users\ftn\Desktop\SBSG e3 27\Projekat\Zekanovic Radislav e327\WCFService\obj\Debug\WCFService.csprojResolveAssemblyReference.cache
+C:\Users\ftn\Desktop\SBSG e3 27\Projekat\Zekanovic Radislav e327\WCFService\obj\Debug\WCFService.exe
+C:\Users\ftn\Desktop\SBSG e3 27\Projekat\Zekanovic Radislav e327\WCFService\obj\Debug\WCFService.pdb

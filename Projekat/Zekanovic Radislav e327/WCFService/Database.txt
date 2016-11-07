@@ -1,0 +1,14 @@
+Entity:
+	Unique ID: f48e48f6-6410-4bc7-ae77-75215a71271a
+	Timestamp: 07-Nov-16 7:19:54 PM
+	Client name: DESKTOP-ILABA60\Radislav Zekanović
+	SID: S-1-5-21-4237789486-1678613479-4064386141-1001
+	Message: prva poruka.
+---------------------------------------
+Entity:
+	Unique ID: 27f3d480-ab78-4c15-886f-eb9fcc7a97e8
+	Timestamp: 07-Nov-16 7:21:34 PM
+	Client name: DESKTOP-ILABA60\user1
+	SID: S-1-5-21-4237789486-1678613479-4064386141-1007
+	Message: prva poruka.
+---------------------------------------

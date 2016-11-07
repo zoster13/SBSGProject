@@ -1,0 +1,4 @@
+C:\Users\ftn\Desktop\SBSG e3 27\Projekat\Zekanovic Radislav e327\Contracts\bin\Debug\Contracts.dll
+C:\Users\ftn\Desktop\SBSG e3 27\Projekat\Zekanovic Radislav e327\Contracts\bin\Debug\Contracts.pdb
+C:\Users\ftn\Desktop\SBSG e3 27\Projekat\Zekanovic Radislav e327\Contracts\obj\Debug\Contracts.dll
+C:\Users\ftn\Desktop\SBSG e3 27\Projekat\Zekanovic Radislav e327\Contracts\obj\Debug\Contracts.pdb
